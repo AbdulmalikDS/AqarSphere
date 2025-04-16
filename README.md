@@ -48,7 +48,6 @@ The dataset contains real estate listings from Saudi Arabia, with features such 
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
-Insert graphs or screenshots here to visualize the data distribution and relationships between variables.
 
 📸 **Example:**  
 ![download (4)](https://github.com/user-attachments/assets/9c58d6ab-6021-463b-b647-4df8d6001142)
@@ -70,7 +69,6 @@ Evaluation metrics used:
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 
-📸 Insert model comparison plots here:  
 ![download (5)](https://github.com/user-attachments/assets/9f2d2cb0-1bd8-4bfe-9722-499b75fb4d4b)
 
 ---
