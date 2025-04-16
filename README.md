@@ -51,10 +51,10 @@ The dataset contains real estate listings from Saudi Arabia, with features such 
 Insert graphs or screenshots here to visualize the data distribution and relationships between variables.
 
 📸 **Example:**  
-`![](images/eda_price_distribution.png)`
+![download (4)](https://github.com/user-attachments/assets/9c58d6ab-6021-463b-b647-4df8d6001142)
 
 📸 **Example:**  
-`![](images/eda_correlation_matrix.png)`
+![download (3)](https://github.com/user-attachments/assets/5caa1956-3206-4ac7-8b9a-38406c971698)
 
 ---
 
@@ -71,7 +71,7 @@ Evaluation metrics used:
 - Root Mean Squared Error (RMSE)
 
 📸 Insert model comparison plots here:  
-`![](images/model_performance.png)`
+![download (5)](https://github.com/user-attachments/assets/9f2d2cb0-1bd8-4bfe-9722-499b75fb4d4b)
 
 ---
 
